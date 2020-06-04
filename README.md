@@ -7,5 +7,5 @@ class 0 = rika (渡边梨加)
 class 1 = risa (渡邊理佐)  
 class 2 = yui (小林由依)  
 class 3 = akane (守屋茜) 
-https://github.com/eason01258/Japanese_idol_Identify/blob/master/png/akane.png
+![image](https://github.com/eason01258/Japanese_idol_Identify/blob/master/png/akane.png)
 class 4 = neru (長濱ねる)  
